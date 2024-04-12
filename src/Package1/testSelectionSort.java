@@ -72,7 +72,7 @@ public class testSelectionSort {
     	
     	 int[] arr = new int[5];
          arr[0] = -1;
-         arr[1] = 4;
+         arr[1] = 3;
          arr[2] = -5;
          arr[3] = 10;
          arr[4] = -2;
@@ -81,7 +81,7 @@ public class testSelectionSort {
          Sortedarr[0] = -5;
          Sortedarr[1] = -2;
          Sortedarr[2] = -1;
-         Sortedarr[3] = 4;
+         Sortedarr[3] = 3;
          Sortedarr[4] = 10;
          
          SelectionSort sorter = new SelectionSort();
@@ -96,14 +96,14 @@ public class testSelectionSort {
     	 int[] arr = new int[5];
          arr[0] = 4;
          arr[1] = 2;
-         arr[2] = 4;
+         arr[2] = 2;
          arr[3] = 4;
          arr[4] = 2;
          
          int[] Sortedarr = new int[5];
          Sortedarr[0] = 2;
          Sortedarr[1] = 2;
-         Sortedarr[2] = 4;
+         Sortedarr[2] = 2;
          Sortedarr[3] = 4;
          Sortedarr[4] = 4;
          
